@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbUp.Templating", "DbUp.Templating\DbUp.Templating.csproj", "{5D02DAC9-50AF-4E1C-AECB-39BDC504760E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbUp.Templating.Handlebars", "DbUp.Templating.Handlebars\DbUp.Templating.Handlebars.csproj", "{B16837D4-0360-47C3-9D35-5F85C96C1BAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbUp.HashedScripts", "DbUp.HashedScripts\DbUp.HashedScripts.csproj", "{F33564C6-9621-4B28-81B1-D4357B25A23F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D02DAC9-50AF-4E1C-AECB-39BDC504760E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D02DAC9-50AF-4E1C-AECB-39BDC504760E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D02DAC9-50AF-4E1C-AECB-39BDC504760E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D02DAC9-50AF-4E1C-AECB-39BDC504760E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B16837D4-0360-47C3-9D35-5F85C96C1BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B16837D4-0360-47C3-9D35-5F85C96C1BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B16837D4-0360-47C3-9D35-5F85C96C1BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B16837D4-0360-47C3-9D35-5F85C96C1BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F33564C6-9621-4B28-81B1-D4357B25A23F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33564C6-9621-4B28-81B1-D4357B25A23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F33564C6-9621-4B28-81B1-D4357B25A23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33564C6-9621-4B28-81B1-D4357B25A23F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
